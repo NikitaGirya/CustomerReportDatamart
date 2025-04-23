@@ -42,6 +42,3 @@
     ├── SQL_loading_customer_report_datamart.sql
     └── SQL_loading_from_sources.sql
 ```
-
----
-
