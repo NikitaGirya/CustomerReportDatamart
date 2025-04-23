@@ -25,6 +25,8 @@
 * количество незавершённых заказов за месяц
 * отчётный период, год и месяц
 
+<br/>
+
 Скрипты:
 1) `SQL_loading_from_sources.sql` - DML загрузки данных из источников в DWH
 2) `DDL_customer_report_datamart.sql` - DDL витрины dwh.customer_report_datamart
