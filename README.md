@@ -4,7 +4,7 @@
 
 ---
 
-Бизнесу требуется витрина в PostgreSQL с данными:
+Бизнесу требуется **витрина в PostgreSQL с данными**
 * идентификатор записи
 * идентификатор заказчика
 * ФИО заказчика
@@ -27,7 +27,7 @@
 
 <br/>
 
-Скрипты:
+**Скрипты**
 1) `SQL_loading_from_sources.sql` - DML загрузки данных из источников в DWH
 2) `DDL_customer_report_datamart.sql` - DDL витрины dwh.customer_report_datamart
 3) `DDL_load_dates_customer_report_datamart.sql` - DDL таблицы инкрементальных загрузок dwh.load_dates_customer_report_datamart
@@ -35,7 +35,7 @@
 
 ---
 
-### Структура репозитория
+**Структура репозитория**
 
 ```
 ├── README.md
